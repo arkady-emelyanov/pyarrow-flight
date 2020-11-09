@@ -1,0 +1,6 @@
+name: pyarrow-flight
+channels:
+  - conda-forge
+dependencies:
+  - pyarrow==2.0.0
+  - pandas==1.1.4
